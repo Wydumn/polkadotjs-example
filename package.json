@@ -1,0 +1,17 @@
+{
+  "name": "polkadotjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "10.2.1",
+    "@polkadot/api-augment": "10.2.1",
+    "@polkadot/types": "10.2.2",
+    "web3": "^1.9.0"
+  }
+}
